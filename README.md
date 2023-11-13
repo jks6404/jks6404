@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/unscripted_er" target="blank"><img src="https://img.shields.io/twitter/follow/unscripted_er?logo=twitter&style=for-the-badge" alt="unscripted_er" /></a> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/janu-kumar-singh-517b3b1aa/" target="blank"><img src="https://img.shields.io/twitter/follow/unscripted_er?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a> </p>
+
 - 🔭 I’m currently working on [Web Developement And DSA](https://github.com/jks6404/Crypto-Control)
 
 - 🌱 I’m currently learning **Node JS, Spring Boot**
