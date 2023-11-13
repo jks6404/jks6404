@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jks6404" alt="jks6404" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/unscripted_er" target="blank"><img src="https://img.shields.io/twitter/follow/unscripted_er?logo=twitter&style=for-the-badge" alt="unscripted_er" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/janu-kumar-singh-517b3b1aa/" target="blank"><img src="https://img.shields.io/twitter/follow/Janu_Kumar_Singh?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/janu-kumar-singh-517b3b1aa/" target="blank"><img src="https://img.shields.io/twitter/follow/unscripted_er?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/unscripted_er" target="blank"><img src="https://img.shields.io/twitter/follow/unscripted_er?logo=twitter&style=for-the-badge" alt="unscripted_er" /></a> </p>
 
 - 🔭 I’m currently working on [Web Developement And DSA](https://github.com/jks6404/Crypto-Control)
 
@@ -27,6 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/janu-kumar-singh-517b3b1aa/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F317750%2Flinkedin_icon&psig=AOvVaw1EnpqsaiYitf0RDMvysyaS&ust=1699928221279000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMDR6J30v4IDFQAAAAAdAAAAABAE" alt="unscripted_er" height="30" width="40" /></a>
 <a href="https://twitter.com/unscripted_er" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unscripted_er" height="30" width="40" /></a>
 <a href="https://www.instagram.com/unscripted_engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unscripted_engineer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCx6hzrbsLiRhj1GBZBpJISQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unscripted engineer" height="30" width="40" /></a>
