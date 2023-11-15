@@ -19,7 +19,7 @@
 
 - 📝 I regularly create productive content on Youtube [https://www.youtube.com/channel/UCx6hzrbsLiRhj1GBZBpJISQ](https://www.youtube.com/channel/UCx6hzrbsLiRhj1GBZBpJISQ)
 
-- 💬 Ask me about **react Js JavaScript, HTML and CSS Styles.**
+- 💬 Ask me about **ReactJs JavaScript, HTML and CSS Styles.**
 
 - 📫 How to reach me **jannusingh.75@gmail.com**
 
