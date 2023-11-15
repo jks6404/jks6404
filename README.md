@@ -1,4 +1,4 @@
-<h1 align="center">Hewlo 👋, I'm Janu Kumar Singh</h1>
+<h1 align="center">Namaste 👋, I'm Janu Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jks6404&label=Profile%20views&color=0e75b6&style=flat" alt="jks6404" /> </p>
